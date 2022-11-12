@@ -1,3 +1,4 @@
+import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 
 export default function Memorizacao() {
@@ -5,6 +6,7 @@ export default function Memorizacao() {
     <>
       <Header />
       Memorizacao Page | Lucas Freire
+      <Footer />
     </>
   )
 }

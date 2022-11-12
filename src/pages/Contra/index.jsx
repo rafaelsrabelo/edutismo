@@ -1,3 +1,4 @@
+import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 
 export default function Contra() {
@@ -5,6 +6,7 @@ export default function Contra() {
     <>
       <Header />
       Contra Page | Lucas Freire
+      <Footer />
     </>
   )
 }
